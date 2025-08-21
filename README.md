@@ -58,7 +58,7 @@ A Telegram bot that converts PDF files to Microsoft Word DOC format (97-2003).
 - python-docx
 
 ## Support
-For issues or questions, contact: @YourUsername
+For issues or questions, contact: @cybrick (Telegram).
 
 ## License
 MIT License
